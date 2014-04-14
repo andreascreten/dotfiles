@@ -18,4 +18,4 @@ source $ZSH/oh-my-zsh.sh
 
 source $HOME/.profile
 
-export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:/sbin:$PATH
